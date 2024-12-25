@@ -1,7 +1,13 @@
 {
     "cSpell.words": [
         "autoflush",
+        "fastapi",
+        "httpx",
+        "passlib",
+        "pydantic",
         "sessionmaker",
+        "sqlalchemy",
+        "uvicorn",
         "venv"
     ]
 }
